@@ -120,8 +120,8 @@ export default class Home extends Component {
       		            <div id="reminders">
               		      <h1>Reminders</h1>
                         <ul id="reminderList">
-                          <li>&U+2610 Pay rent</li>
-                          <li>&U+2611 Turn in book</li>
+                          <li>&#U+2610 Pay rent</li>
+                          <li>&#U+2611 Turn in book</li>
                         </ul>
       		           </div>
                   </div>
