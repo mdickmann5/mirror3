@@ -60,6 +60,7 @@
 
 #remindersList {
   text-align: left;
+  list-style-type: none;
 }
 
 @keyframes App-logo-spin {
