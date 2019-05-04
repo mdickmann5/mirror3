@@ -110,6 +110,7 @@ export default class Home extends Component {
 		                  <div id="weather">
                        <p>{this.getDate()}</p>
                        <p>
+                       <p>test git push</p>
                           <img id="weatherSymbol" src={this.state.wImage}/>
 		 	                     <div id="temp">
                             <p id="tempVal">{this.state.wTemp}</p>
